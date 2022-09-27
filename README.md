@@ -1,5 +1,5 @@
 
-<img src="https://cdn.discordapp.com/attachments/1020634642707136565/1024363409304731788/1.PNG" width=300;>
+<img src="https://cdn.discordapp.com/attachments/1020634642707136565/1024363409304731788/1.PNG" width=300;></img>
 ## 📖 프로젝트 소개
 수강신청 웹 개발 프로젝트
 
