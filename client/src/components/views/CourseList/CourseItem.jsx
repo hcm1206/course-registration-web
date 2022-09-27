@@ -1,6 +1,14 @@
 import React,{} from 'react';
 import styled from 'styled-components';
 
+const Tr = styled.tr`
+
+`;
+
+const Td = styled.td`
+    
+`;
+
 function CourseItem(props){
 
     return(

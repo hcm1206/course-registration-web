@@ -9,7 +9,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 import CourseList from './components/views/CourseList/CourseList';
 import MenuButton from './components/views/Menubar/MenuButton';
-import SidebarPage from './components/views/SideBarPage/SidebarPage';
+import SidebarPage from './components/views/SidebarPage/SidebarPage';
 
 const Wrapper = styled.div`
   background-color: #fff7d88e;
